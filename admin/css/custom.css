@@ -1,0 +1,42 @@
+.an-top-bar{
+    background: #fff;
+    display: flex !important;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    color: #0D0F39;
+    align-items: center;
+    margin: 10px 20px 0 2px;
+}
+
+.an-top-bar a.an-acount-link, 
+.an-top-bar a.an-acount-link:hover, 
+.an-top-bar a.an-acount-link:focus, 
+.an-top-bar a.an-acount-link:active{
+    text-decoration: none;
+    font-size: 14px;
+    color: #0D0F39;
+}
+.an-top-bar a.an-acount-link:hover{
+    color: #FF306C;
+}
+
+.an-top-bar .an-top-bar-left h1{
+    padding-left: 10px;
+}
+
+.an-top-bar .an-top-bar-left{
+    display: flex;
+}
+
+.an-top-bar .an-top-bar-left img{
+    max-width: 60px;
+}
+
+
+#user-form-table .wp-color-result-text{
+
+    padding-left: 25px;
+    background-color: #c3c4c7;
+}
